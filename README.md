@@ -4,6 +4,9 @@ A customizable view for use in a NavigationItem's titleView Property
 
 An easy to use UIView class with a UILabel. The label allows for full customization of the `navigiationItem`'s `titleView` property as if you were just setting the `title` property. Especially useful for app that are supporting older version of iOS that do not have the large titles (pre iOS 11).
 
+## Installation
+Copy the contents of CustomizeTitleView or add the file into your project.
+
 ## Usage
 ```
 //create a view
