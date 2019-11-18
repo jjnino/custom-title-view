@@ -22,3 +22,5 @@ titleView.offset = -(UIScreen.main.bounds.width/2 - titleView.titleWidth/2 - 44)
 //set to the titleView property
 navigationItem.titleView = titleView
 ```
+![offset](screenshots/offset.png)
+![normal](screenshots/normal.png)
